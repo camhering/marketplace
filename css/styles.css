@@ -1,0 +1,12 @@
+#receipt {
+  display: none;
+}
+
+.floatright {
+  float: right;
+}
+
+.border {
+  border-color: black;
+  background-color: #010101;
+}
